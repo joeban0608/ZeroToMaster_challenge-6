@@ -14,4 +14,4 @@
       For example:  
       // #ffffff // RGB(255,255,255)  
       // RGB(255,255,255) // #ffffff  
-      ### Solution: [\#HexAndRgbCovert\#](https://github.com/joeban0608/ZeroToMaster_challenge-6/blob/main/S3-2_HexAndRgbCovert_cleaner_code.js)
+      ### Solution-cleaner: [\#HexAndRgbCovert\#](https://github.com/joeban0608/ZeroToMaster_challenge-6/blob/main/S3-2_HexAndRgbCovert_cleaner_code.js)
