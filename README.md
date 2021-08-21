@@ -4,6 +4,6 @@
 make a function that organizes these into individual array that is ordered.   
 
     For example answer(ArrayFromAbove)  
-    solution: [\#cleanRoomFunction\#](https://github.com/joeban0608/ZeroToMaster_challenge-6/blob/main/S1_chanllenge_clean_room_function.js)
+   # Solution: [\#cleanRoomFunction\#](https://github.com/joeban0608/ZeroToMaster_challenge-6/blob/main/S1_chanllenge_clean_room_function.js)
 3. [\#TwoSum\#](https://github.com/joeban0608/ZeroToMaster_challenge-6/blob/main/S2_TwoSum.js)
 4. [\#HexAndRgbCovert\#](https://github.com/joeban0608/ZeroToMaster_challenge-6/blob/main/S3-2_HexAndRgbCovert_cleaner_code.js)
