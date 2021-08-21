@@ -10,8 +10,7 @@
       ### Solution: [\#TwoSum\#](https://github.com/joeban0608/ZeroToMaster_challenge-6/blob/main/S2_TwoSum.js)
 *  Question 3: Write a function that converts HEX to RGB. 
       Then Make that function auto-dect the formats  
-      so that if you enter HEX color format it returns RGB and  
-      if you enter RGB color format it returns HEX.  
+      so that if you enter HEX color format it returns RGB and if you enter RGB color format it returns HEX.  
       For example:  
       // #ffffff // RGB(255,255,255)  
       // RGB(255,255,255) // #ffffff  
