@@ -12,7 +12,7 @@
       Then Make that function auto-dect the formats  
       so that if you enter HEX color format it returns RGB and  
       if you enter RGB color format it returns HEX.  
-      For example:
+      For example:  
       // #ffffff // RGB(255,255,255)  
       // RGB(255,255,255) // #ffffff  
-5. [\#HexAndRgbCovert\#](https://github.com/joeban0608/ZeroToMaster_challenge-6/blob/main/S3-2_HexAndRgbCovert_cleaner_code.js)
+      ### Solution: [\#HexAndRgbCovert\#](https://github.com/joeban0608/ZeroToMaster_challenge-6/blob/main/S3-2_HexAndRgbCovert_cleaner_code.js)
