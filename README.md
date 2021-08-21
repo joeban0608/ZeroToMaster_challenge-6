@@ -8,5 +8,11 @@
       The function should find two different numbers in the array that, when added together,  
       give the target number. For example: answer([1,2,3], 4)should return [1,3]  
       ### Solution: [\#TwoSum\#](https://github.com/joeban0608/ZeroToMaster_challenge-6/blob/main/S2_TwoSum.js)
-*  
+*  Question 3: Write a function that converts HEX to RGB. 
+      Then Make that function auto-dect the formats  
+      so that if you enter HEX color format it returns RGB and  
+      if you enter RGB color format it returns HEX.
+      // example:
+      // #ffffff // RGB(255,255,255)
+      // RGB(255,255,255) // #ffffff
 5. [\#HexAndRgbCovert\#](https://github.com/joeban0608/ZeroToMaster_challenge-6/blob/main/S3-2_HexAndRgbCovert_cleaner_code.js)
